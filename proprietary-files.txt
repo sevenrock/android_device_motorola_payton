@@ -424,11 +424,6 @@ vendor/lib64/librpmb.so
 vendor/lib64/libSecureUILib.so
 vendor/lib64/libssd.so
 
-# Fingerprint
-vendor/bin/hw/android.hardware.biometrics.fingerprint@2.1-fpcservice
-vendor/etc/init/android.hardware.biometrics.fingerprint@2.1-service.rc
-vendor/lib64/com.fingerprints.extension@1.0_vendor.so
-
 # Gatekeeper
 vendor/lib/hw/gatekeeper.sdm660.so
 vendor/lib64/hw/gatekeeper.sdm660.so
